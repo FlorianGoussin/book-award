@@ -5,8 +5,6 @@ Tested up to:      6.1
 Stable tag:        0.1.0
 License:           MIT
 
-Example block scaffolded with Create Block tool.
-
 == Description ==
 Simple book award block plugin for a wordpress site
 
