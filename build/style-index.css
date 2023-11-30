@@ -7,10 +7,21 @@
  *
  * Replace them with your own styles or remove the file completely.
  */
-.wp-block-create-block-fgc-book-award {
-  background-color: #21759b;
-  color: #fff;
-  padding: 2px;
+.wp-block-fgc-blocks-book-award .book-award_content {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+}
+.wp-block-fgc-blocks-book-award .book-award_content .book-award_text {
+  position: absolute;
+  text-align: center;
+}
+.wp-block-fgc-blocks-book-award .book-award_content .book-award_laurels img {
+  width: 140px;
+  height: auto;
 }
 
 /*# sourceMappingURL=style-index.css.map*/
